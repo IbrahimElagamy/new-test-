@@ -1,0 +1,63 @@
+/* google fonts
+font-family: 'Fredoka One', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Anton', sans-serif;
+*/
+/* start header */
+
+.store .tittle h1{
+    text-align: center;
+    padding: 20px 0px;
+    font-size: 100px;
+}
+section .tittle h1 span{
+    font-family: 'Fredoka One', cursive;
+}
+.store .tittle h1 sub{
+    font-size: 60px;
+    font-family: 'Dosis', sans-serif;
+} 
+/*End store name*/
+
+.navbar .navbar-brand {
+   margin: auto;
+   font-family: 'Dosis', sans-serif;
+   font-weight: bold;
+   text-align: center;
+}
+.navbar .navbar-brand:hover{
+    background-color: #e61938;
+    padding: 0px 30px;
+    border-radius: 20px;
+    color: white;
+}
+.collapse .navbar-nav li{
+    margin: 0px 55px;
+}
+.collapse .navbar-nav li .navbar-text{
+    right: 10px;
+}
+/*End navbar*/
+.card .card-header h1{
+    color: rgba(0, 0, 0, 0.6);
+}
+.card .card-header p{
+    font-weight: bold;
+} /*End card header*/
+.aboutus{
+    font-weight: bold;
+}
+/*End aboutus*/
+.time{
+    padding: 10px 0px;
+}
+#gallary p{
+    padding: 10px 0px;
+    border-radius: 20px;
+}/*End gallary*/
+.time h1{
+    color: rgba(0, 0, 0, 0.7);
+}/* End time*/
+.contactus{
+    padding: 10px 0px;
+}/*End contactus*/
